@@ -11,7 +11,7 @@
 
 
 ### About me
-I started my career as a website developer on cms 1c-bitrix and joomla. But for the last few years she has been working as a site administrator. I was engaged in servicing existing company websites on Joomla, 1C Bitrix, SAP Hybris, writing technical assignments for new projects, setting tasks for developers, was a subject photographer, creating graphic elements for the site, etc. The work was very diverse, but it lacked programming, which I really liked. Therefore, after the birth of my daughter, I decided that I wanted to return to development. Now, I'm on paternity leave and actively studying modern technologies. 
+I started my career as a website developer on cms 1c-bitrix and joomla. But for the last few years I have been working as a site administrator. I was engaged in servicing existing company websites on Joomla, 1C Bitrix, SAP Hybris, writing technical assignments for new projects, setting tasks for developers, was a subject photographer, creating graphic elements for the site, etc. The work was very diverse, but it lacked programming, which I really liked. Therefore, after the birth of my daughter, I decided that I wanted to return to development. Now, I'm on paternity leave and actively studying modern technologies. 
 
 I believe that I will become a good Frontend Developer.
 
